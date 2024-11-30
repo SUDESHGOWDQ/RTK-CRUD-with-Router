@@ -1,0 +1,56 @@
+.Navbar {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+
+.navbar-header {
+  width: 80%;
+  margin: auto;
+}
+
+button {
+  height: 30px;
+  width: 100px;
+  font-weight: bold;
+  background: orange;
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin: 10px;
+}
+
+table {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+.AddPost {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  height: auto;
+  width: 300px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
+input {
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+label {
+  margin-top: 10px;
+  padding: 50px;
+}
